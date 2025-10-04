@@ -30,7 +30,6 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
 
 #### 🔧 Languages
 
@@ -43,8 +42,19 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+### 🧠 Core Knowledge
+<div align="center">
 
-#### 📚 Libraries & Tools
+![Data Structures](https://img.shields.io/badge/Data%20Structures-blue)
+![Algorithms](https://img.shields.io/badge/Algorithms-green)
+![Statistics](https://img.shields.io/badge/Statistics-orange)
+
+</div>
+
+
+
+
+
 
 #### 🔧 Tools & Platforms
 
