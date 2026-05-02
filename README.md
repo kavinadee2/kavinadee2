@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/kavinadee2">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20Data%20Scientist;Computer%20Science%20Student;Lifelong%20Learner&font=Fira%20Code&center=true&width=440&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20DevOps%20Engineer;Computer%20Science%20Student;Practice%20Build%20Improve%20Repeat&font=Fira%20Code&center=true&width=440&height=45">
   </a>
 </p>
 
@@ -24,9 +24,9 @@
 
 ---
 
-- 👨‍💻 I’m a CS Student & Aspiring Data Scientist, passionate about Python, Machine Learning, SQL, and Statistics.  
-- 💬 Ask me about Python, Data Science, Machine Learning, SQL, or Algorithms.  
-- 🌱 I’m currently diving deeper into Machine Learning & AI.
+- 👨‍💻 Computer Science undergraduate focused on DevOps Engineering and Cloud Technologies.  
+- 💬 Interested in AWS, Linux, Docker, Kubernetes, CI/CD pipelines, and Infrastructure Automation.  
+- 🌱 Currently developing practical DevOps skills through projects and cloud labs, while exploring AI-driven infrastructure concepts.  
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -109,11 +109,11 @@
 ### 🔗 &nbsp;Contact Me
 <div align="center">
 <a href="mailto:kavinduwick02@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/kavindu-wickramathilaka"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
 
-<h6 align="center">Last Edited on: 04/10/2025</h6>
+<h6 align="center">Last Edited on: 02/05/2026</h6>
 
 
