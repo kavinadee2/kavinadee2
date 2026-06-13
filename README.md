@@ -48,6 +48,7 @@
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-blue)
 ![Algorithms](https://img.shields.io/badge/Algorithms-green)
 ![Statistics](https://img.shields.io/badge/Statistics-orange)
+![Softwere Architectures](https://img.shields.io/badge/Softwere%20Architectures-yellow)
 
 </div>
 
