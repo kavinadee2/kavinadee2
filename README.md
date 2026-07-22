@@ -48,7 +48,7 @@
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-blue)
 ![Algorithms](https://img.shields.io/badge/Algorithms-green)
 ![Statistics](https://img.shields.io/badge/Statistics-orange)
-![Softwere Architectures](https://img.shields.io/badge/Softwere%20Architectures-yellow)
+![Softwere Architecture](https://img.shields.io/badge/Softwere%20Architecture-yellow)
 
 </div>
 
@@ -65,6 +65,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23F0DB4F.svg?style=for-the-badge&logo=xampp&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 
@@ -96,13 +97,7 @@
 
 
  
-### 🏆 GitHub Profile Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kavinadee2&theme=onedark&no-frame=true&margin-w=10&margin-h=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 
 ---
@@ -110,11 +105,11 @@
 ### 🔗 &nbsp;Contact Me
 <div align="center">
 <a href="mailto:kavinduwick02@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="www.linkedin.com/in/kavindu-wickramathilaka"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kavindu-wickramathilaka/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
 ---
 
-<h6 align="center">Last Edited on: 02/05/2026</h6>
+<h6 align="center">Last Edited on: 22/07/2026</h6>
 
 
