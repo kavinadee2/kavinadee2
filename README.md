@@ -80,10 +80,11 @@
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavinadee2&theme=dracula&hide_border=false)](https://git.io/streak-stats)
 <br><br>
-
-### 📈 Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavinadee2&layout=compact&theme=radical)](https://github.com/kavinadee2)
-  
+<p align="center">
+  <a href="https://github.com/kavinadee2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinadee2&layout=compact&langs_count=7&theme=tokyonight&border_radius=8" alt="Top Languages" />
+  </a>
+</p>
 </div>
 
 <br>
@@ -93,9 +94,11 @@
 
 
 
-### 📈 Activity Graph
-[![Kavindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kavinadee2&theme=react-dark)](https://github.com/kavinadee2/github-readme-activity-graph)
-
+<p align="center">
+  <a href="https://github.com/kavinadee2">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinadee2&theme=react-dark&area=true&hide_border=true&radius=12&custom_title=⚡%20Activity%20Pulse" width="100%" alt="Activity Pulse" />
+  </a>
+</p>
 
  
 
