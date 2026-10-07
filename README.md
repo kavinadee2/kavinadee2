@@ -99,7 +99,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinadee2&theme=react-dark&area=true&hide_border=true&radius=12&custom_title=⚡%20Activity%20Pulse" width="100%" alt="Activity Pulse" />
   </a>
 </p>
+## 📝 Latest Commits
 
+![GitHub commit activity](https://github-readme-activity-graph.vercel.app/graph?username=kavinadee2&theme=github-compact)
  
 
 
