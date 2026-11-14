@@ -31,16 +31,9 @@
 ## 🛠 &nbsp;Tech Stack
 
 
-#### 🔧 Languages
+💻 Programming & Development
 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
+<p>   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,php,c#" /> </p>
 
 ### 🧠 Core Knowledge
 <div align="center">
@@ -61,13 +54,28 @@
 
 #### 🔧 Tools & Platforms
 
-![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-%23F0DB4F.svg?style=for-the-badge&logo=xampp&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+</p>
+
+
+⚙️ DevOps & Tools
+
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,bash,vscode" />
+</p>
+
+
+☁️ Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+
 
 
 
