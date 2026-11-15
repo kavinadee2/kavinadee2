@@ -114,7 +114,7 @@ Here are some of the projects I'm working on and learning from.
 | [TalentFlowOS](https://github.com/Chamindu18/TalentFlowOS) | Collaborative software engineering project involving interview management | .NET, PostgreSQL, Git |
 | [StyleStore](https://github.com/kavinadee2/StyleStore) | Developing a clothing shop web application with database integration | Python, Flask, MySQL |
 | Linux Labs | Practicing Linux commands, shell scripting and system administration | Linux, Bash |
-| Networking Labs | Learning networking fundamentals and configurations | Cisco Networking |
+| [Networking Labs](https://github.com/kavinadee2/Cisco) | Learning networking fundamentals and configurations | Cisco Networking |
 
 *Some projects are ongoing. I'll continue adding improvements, documentation and screenshots.*
 
