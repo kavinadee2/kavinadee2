@@ -120,44 +120,66 @@ I'm continuously improving my technical knowledge through online courses, practi
 
 
 ### 🔥 GitHub Streak
+<div>
+
+
+   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavinadee2&theme=dracula&hide_border=false)](https://git.io/streak-stats)
 <br><br>
-<p align="center">
-  <a href="https://github.com/kavinadee2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinadee2&layout=compact&langs_count=7&theme=tokyonight&border_radius=8" alt="Top Languages" />
-  </a>
-</p>
+
+
+
 </div>
 
-<br>
-</div>
- 
 
 
 
+## 🎯 My Learning Roadmap
 
-<p align="center">
-  <a href="https://github.com/kavinadee2">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavinadee2&theme=react-dark&area=true&hide_border=true&radius=12&custom_title=⚡%20Activity%20Pulse" width="100%" alt="Activity Pulse" />
-  </a>
-</p>
-
-
-![GitHub commit activity](https://github-readme-activity-graph.vercel.app/graph?username=kavinadee2&theme=github-compact)
- 
-
-
+- [x] Git & GitHub Fundamentals
+- [x] Linux Fundamentals
+- [ ] Docker Fundamentals
+- [ ] Advanced Linux & Bash Scripting
+- [ ] AWS Cloud Computing
+- [ ] CI/CD with GitHub Actions
+- [ ] Kubernetes
+- [ ] Terraform
+- [ ] Python Automation
+- [ ] Machine Learning Fundamentals
+- [ ] MLOps & ML Deployment
 
 ---
 
-### 🔗 &nbsp;Contact Me
-<div align="center">
-<a href="mailto:kavinduwick02@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kavindu-wickramathilaka/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/kavinadee2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/kavindu-wickramathilaka/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+📧 Email: **kavinduwick02@gmail.com**
 
 ---
 
-<h6 align="center">Last Edited on: 22/07/2026</h6>
+### 💭 My Philosophy
+
+> Learn something new every day.  
+> Build something useful.  
+> Make mistakes. Fix them.  
+> Keep improving.  
+> **Practice Makes You Perfect!**
+
+⭐ Thanks for visiting my GitHub profile!
+
+**Let's connect, learn and build something amazing together!** 🚀
+
+
+
+
+<h6 align="center">Last Edited on: 15/11/2026</h6>
 
 
