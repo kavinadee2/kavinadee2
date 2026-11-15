@@ -28,6 +28,21 @@
 - 💬 Interested in AWS, Linux, Docker, Kubernetes, CI/CD pipelines, and Infrastructure Automation.  
 - 🌱 Currently developing practical DevOps skills through projects and cloud labs, while exploring AI-driven infrastructure concepts.  
 
+
+
+---
+
+## 🎓 Education
+
+**NSBM Green University, Sri Lanka**
+
+- Degree: BSc (Hons) in Computer Science (UGC)
+- Academic Status: Undergraduate
+- Current Year: 3rd Year
+- Cumulative GPA: **3.74 / 4.00** (After Year 2)
+
+-----
+
 ## 🛠 &nbsp;Tech Stack
 
 
