@@ -112,7 +112,7 @@ Here are some of the projects I'm working on and learning from.
 |---|---|---|
 | [My First DevOps Project](https://github.com/kavinadee2/My_First_DevOps_Project) | My first practical Docker-based web application project | Docker, Git |
 | [TalentFlowOS](https://github.com/Chamindu18/TalentFlowOS) | Collaborative software engineering project involving interview management | .NET, PostgreSQL, Git |
-| [StyleStore] | Developing a clothing shop web application with database integration | Python, Flask, MySQL |
+| [StyleStore](https://github.com/kavinadee2/StyleStore) | Developing a clothing shop web application with database integration | Python, Flask, MySQL |
 | Linux Labs | Practicing Linux commands, shell scripting and system administration | Linux, Bash |
 | Networking Labs | Learning networking fundamentals and configurations | Cisco Networking |
 
