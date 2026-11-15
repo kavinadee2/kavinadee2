@@ -79,12 +79,45 @@
 
 
 
-## 📊 Profile Statistics
 
-<div align="center">
+## 🚀 Featured Projects
 
-![Kavindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavinadee2&show_icons=true&count_private=true&theme=algolia&hide=prs)
-<br><br>
+Here are some of the projects I'm working on and learning from.
+
+| Project | Description | Technologies |
+|---|---|---|
+| [My First DevOps Project](https://github.com/kavinadee2/My_First_DevOps_Project) | My first practical Docker-based web application project | Docker, Git |
+| [TalentFlowOS](https://github.com/Chamindu18/TalentFlowOS) | Collaborative software engineering project involving interview management | .NET, PostgreSQL, Git |
+| [StyleStore] | Developing a clothing shop web application with database integration | Python, Flask, MySQL |
+| Linux Labs | Practicing Linux commands, shell scripting and system administration | Linux, Bash |
+| Networking Labs | Learning networking fundamentals and configurations | Cisco Networking |
+
+*Some projects are ongoing. I'll continue adding improvements, documentation and screenshots.*
+
+---
+
+
+
+## 🎓 Certifications & Learning
+
+I'm continuously improving my technical knowledge through online courses, practical labs and certifications.
+
+- 📘 AWS Cloud Practitioner Essentials – Learning
+- 🐧 Linux System Administration – Practicing
+- ⚙️ DevOps Engineering – Learning
+- 🤖 Machine Learning – Exploring
+
+*I'll add verified certificate links here as I complete each course.*
+
+---
+
+
+
+
+
+
+
+
 
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavinadee2&theme=dracula&hide_border=false)](https://git.io/streak-stats)
