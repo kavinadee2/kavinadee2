@@ -48,7 +48,7 @@
 
 💻 Programming & Development
 
-<p>   <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,php,c#" /> </p>
+<p>   <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,mysql,php,c#,java" /> </p>
 
 ### 🧠 Core Knowledge
 <div align="center">
