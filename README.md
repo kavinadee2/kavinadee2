@@ -130,6 +130,7 @@ Here are some of the projects I'm working on and learning from.
 | [StyleStore](https://github.com/kavinadee2/StyleStore) | Developing a clothing shop web application with database integration | Python, Flask, MySQL |
 | Linux Labs | Practicing Linux commands, shell scripting and system administration | Linux, Bash |
 | [Networking Labs](https://github.com/kavinadee2/Cisco) | Learning networking fundamentals and configurations | Cisco Networking |
+| [Digital Forensics Lab](https://github.com/kavinadee2/Digital-Forensics-Lab) | Practical digital forensics investigation using hexadecimal analysis, file recovery and file carving | HexEd.it, Digital Forensics, Hex Analysis |
 
 *Some projects are ongoing. I'll continue adding improvements, documentation and screenshots.*
 
