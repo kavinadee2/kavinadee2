@@ -100,6 +100,7 @@
   <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux%20Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Cryptography-6A5ACD?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+   <img src="https://img.shields.io/badge/Digital%20Forensics-8A2BE2?style=for-the-badge&logo=files&logoColor=white" />
 </p>
 
 ### 🛡️ Security Tools & Platforms
@@ -110,6 +111,8 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+   <img src="https://img.shields.io/badge/HexEd.it-4B0082?style=for-the-badge&logo=hexo&logoColor=white" />
+
 </p>
 
 
